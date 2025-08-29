@@ -1,162 +1,6098 @@
 [
   {
-    "name": "Katty",
-    "spotifyId": "7sWJR3GtdK9Jr09w5Nh16B",
-    "owner": "Martijn"
+    "date": "2025-08-31",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Muted Mind",
-    "spotifyId": "1KJc2XcGCkzZypmNDhIMeR",
-    "owner": "Nuno"
+    "date": "2025-09-01",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Swooshy",
-    "spotifyId": "6kWh8CBUb92RPXrCMzJ2og",
-    "owner": "Nuno"
+    "date": "2025-09-02",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Eleanor Moon",
-    "spotifyId": "5d8GtQxBbULssUMeaHpTJ4",
-    "owner": "Nuno"
+    "date": "2025-09-02",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Sleepy Delrow",
-    "spotifyId": "5AzDNSnXecyb5n2SGEk210",
-    "owner": "Nuno"
+    "date": "2025-09-02",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Lila Serene",
-    "spotifyId": "6CNN1uNMESxlBFkAlPLFGC",
-    "owner": "Nuno"
+    "date": "2025-09-02",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Soft Dawn",
-    "spotifyId": "1lw523m68IbWJqOXAW1dp6",
-    "owner": "Nuno"
+    "date": "2025-09-03",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Loomy",
-    "spotifyId": "6nCQ2Jjeut72ninwDgB6Yy",
-    "owner": "Nuno"
+    "date": "2025-09-04",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Evelyn Winter",
-    "spotifyId": "4ByXb0waTbnoUu4EaPPD2W",
-    "owner": "Martijn"
+    "date": "2025-09-04",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Krople",
-    "spotifyId": "00yTD0tYQNrivASVQgBGes",
-    "owner": "Martijn"
+    "date": "2025-09-04",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Nunery Dream",
-    "spotifyId": "357zDmhgGTYSyYTyBTD65t",
-    "owner": "Nuno"
+    "date": "2025-09-04",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Luna Nights",
-    "spotifyId": "2Ar9N9Kr5qNvDq188I0DsC",
-    "owner": "Martijn"
+    "date": "2025-09-05",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Celestine Viora",
-    "spotifyId": "2McwFGt12uHTCNmI7VhC2K",
-    "owner": "Nuno"
+    "date": "2025-09-06",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Domindo Nuni",
-    "spotifyId": "6IsY6SBSPEQFRDZYzsF2nS",
-    "owner": "Martijn"
+    "date": "2025-09-07",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Sophia Vale",
-    "spotifyId": "79A1B10WsQEm7MiRCHC9Fa",
-    "owner": "Martijn"
+    "date": "2025-09-08",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Ava Willow",
-    "spotifyId": "37rDPPf5ljzqE4MTvC1PyH",
-    "owner": "Martijn"
+    "date": "2025-09-09",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Motionless",
-    "spotifyId": "3lQpO3wZJRN29Ijr8fpwaN",
-    "owner": "Martijn"
+    "date": "2025-09-09",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Ludo Legato",
-    "spotifyId": "00qvWOgeQtQf4XcxJM6DzU",
-    "owner": "Martijn"
+    "date": "2025-09-09",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Dreamflow",
-    "spotifyId": "3JxvfjZaLHM60yYRt7BYZm",
-    "owner": "Nuno"
+    "date": "2025-09-09",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Poluz",
-    "spotifyId": "0vaXEuhH3eaJuTdMoLFdbN",
-    "owner": "Martijn"
+    "date": "2025-09-10",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Doris Lost",
-    "spotifyId": "43U1R9AZoGI3V5iaW6lht8",
-    "owner": "Nuno"
+    "date": "2025-09-11",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Eternal",
-    "spotifyId": "4oOqA7kbwce90hbDDKjoID",
-    "owner": "Martijn"
+    "date": "2025-09-11",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Sleepy Teas",
-    "spotifyId": "3Ax9FlTyHNJdOhAKaxhZl9",
-    "owner": "Nuno"
+    "date": "2025-09-11",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "ZizZa",
-    "spotifyId": "20ajFDuyJzM8xGkWL9agiV",
-    "owner": "Martijn"
+    "date": "2025-09-11",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Slaapmutsje",
-    "spotifyId": "1iH0DmClTXD3DEXO490gbq",
-    "owner": "Nuno"
+    "date": "2025-09-12",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Deep Sleep",
-    "spotifyId": "4d3WwgfETgTvddopuSfQ8i",
-    "owner": "n.v.t."
+    "date": "2025-09-13",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Vallie Ginns",
-    "spotifyId": "2tKuJrJLd6BARL1GVE3VVT",
-    "owner": "n.v.t."
+    "date": "2025-09-14",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Rekkel Paals",
-    "spotifyId": "61Qha9Ylp3V6dDX8Jj5Z1z",
-    "owner": "n.v.t."
+    "date": "2025-09-15",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Luana Sol",
-    "spotifyId": "7dcX4psw7M8J5l1c5jRmX3",
-    "owner": "n.v.t."
+    "date": "2025-09-16",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Wishes",
-    "spotifyId": "4cGEMRW0A7PAZcovV3S8KT",
-    "owner": "n.v.t."
+    "date": "2025-09-16",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Rain Notes",
-    "spotifyId": "5P1RyLkpa2GMDium23Ptn6",
-    "owner": "n.v.t."
+    "date": "2025-09-16",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   },
   {
-    "name": "Cosmic Calm",
-    "spotifyId": "0OXYrzdbgxer5KtxSTuUDy",
-    "owner": "n.v.t."
+    "date": "2025-09-16",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-17",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-19",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-20",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-21",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-22",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-24",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-26",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-27",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-28",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-29",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-09-29",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-01",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-01",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-03",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-03",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-04",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-05",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-06",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-06",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-08",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-08",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-10",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-10",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-11",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-12",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-13",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-13",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-15",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-15",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-17",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-17",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-18",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-19",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-20",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-20",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-22",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-22",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-24",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-24",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-25",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-26",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-27",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-27",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-29",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-29",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-30",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-30",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-30",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-30",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-10-31",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-10-31",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-03",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-03",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-05",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-05",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-07",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-07",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-10",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-10",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-11",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-11",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-11",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-11",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-12",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-12",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-13",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-13",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-13",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-13",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-14",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-17",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-17",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-18",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-18",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-18",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-18",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-19",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-19",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-21",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-21",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-24",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-24",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-25",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-25",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-25",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-25",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-26",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-26",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-11-28",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-01",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-01",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-02",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-02",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-02",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-02",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-03",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-03",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-04",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-04",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-04",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-04",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-04",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-05",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-05",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-08",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-08",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-09",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-09",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-09",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-09",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-10",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-10",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-12",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-12",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-15",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-15",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-17",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-17",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-19",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-19",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-22",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-22",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-23",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-23",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-23",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-23",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-24",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-24",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-25",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-25",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-25",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-25",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-26",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-26",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-29",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2025-12-29",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-30",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-30",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-30",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-30",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-31",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2025-12-31",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-02",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-02",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-05",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-05",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-07",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-07",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-09",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-09",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-12",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-12",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-13",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-13",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-13",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-13",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-14",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-15",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-15",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-15",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-15",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-15",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-16",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-16",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-19",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-19",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-20",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-20",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-20",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-20",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-21",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-21",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-23",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-23",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-26",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-26",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-28",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-30",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-01-30",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-02",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-02",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-03",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-03",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-03",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-03",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-04",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-04",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-05",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-05",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-05",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-05",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-06",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-06",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-09",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-09",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-10",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-10",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-10",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-10",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-11",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-11",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-13",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-13",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-16",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-16",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-18",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-18",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-20",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-20",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-23",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-23",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-24",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-24",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-24",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-24",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-25",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-25",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-27",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-02-27",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-02",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-02",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-03",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-03",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-03",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-03",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-04",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-04",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-05",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-05",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-05",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-05",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-06",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-06",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-09",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-09",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-10",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-10",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-10",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-10",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-11",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-11",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-13",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-13",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-16",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-16",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-17",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-17",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-17",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-17",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-18",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-18",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-19",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-19",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-19",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-19",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-20",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-20",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-23",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-23",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-24",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-24",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-24",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-24",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-25",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-25",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-03-27",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-27",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-30",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-30",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-01",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-01",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-03",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-03",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-06",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-06",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-07",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-07",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-07",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-07",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-08",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-08",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-09",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-09",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-09",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-09",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-09",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-10",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-10",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-13",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-13",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-14",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-14",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-14",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-15",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-15",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-17",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-17",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-20",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-20",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-22",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-22",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-24",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-24",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-27",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-27",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-04-28",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-28",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-28",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-29",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-29",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-30",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-30",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-30",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-04-30",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-01",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-01",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-04",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-04",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-05",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-05",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-05",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-05",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-06",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-06",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-08",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-08",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-11",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-11",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-13",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-13",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-15",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-15",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-18",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-18",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-19",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-19",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-19",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-19",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-20",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-20",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-21",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-21",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-21",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-21",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-21",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-22",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-22",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-25",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-25",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-26",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-26",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-26",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-26",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-05-27",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-27",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-29",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-05-29",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-01",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-01",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-03",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-03",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-05",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-05",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-08",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-08",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-09",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-09",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-09",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-09",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-10",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-10",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-11",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-11",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-11",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-11",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-12",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-12",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-15",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-15",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-16",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-16",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-16",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-16",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-17",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-17",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-19",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-19",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-22",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-22",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-24",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-24",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-26",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-26",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-29",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-29",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-30",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-30",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-30",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-06-30",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-01",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-01",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-02",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-02",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-02",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-02",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-02",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-03",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-03",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-06",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-06",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-07",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-07",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-07",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-07",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-08",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-08",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-10",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-10",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-13",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-13",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-15",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-15",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-17",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-17",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-20",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-20",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-21",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-21",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-21",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-21",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-22",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-22",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-23",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-23",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-23",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-23",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-24",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-24",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-07-27",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-27",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-28",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-28",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-28",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-28",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-29",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-29",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-31",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-07-31",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-03",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-03",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-05",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-05",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-07",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-07",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-10",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-10",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-11",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-11",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-11",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-11",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-12",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-12",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-14",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-14",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-17",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-17",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-19",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-19",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-21",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-21",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-24",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-24",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-26",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-26",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-28",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-28",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-31",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-08-31",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-02",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-02",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-04",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-04",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-07",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-07",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-08",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-08",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-08",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-08",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-09",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-09",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-11",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-11",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-14",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-14",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-16",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-16",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-18",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-18",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-21",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-21",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-22",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-22",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-22",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-22",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-23",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-23",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-25",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-25",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-28",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-28",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-30",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-09-30",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-02",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-02",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-05",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-05",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-07",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-07",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-09",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-09",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-12",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-12",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-14",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-14",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-16",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-16",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-19",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-19",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-20",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-20",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-20",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-20",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-21",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-21",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-23",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-23",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-26",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-26",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-28",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-28",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-30",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-10-30",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-02",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-02",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-03",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-03",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-03",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-03",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-04",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-04",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-06",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-06",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-09",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-09",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-11",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-11",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-13",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-13",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-16",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-16",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-18",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-18",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-20",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-20",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-23",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-11-23",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-25",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-25",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-27",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-27",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-30",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-11-30",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-02",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-02",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-04",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-04",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-07",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-07",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-09",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-09",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-11",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-11",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-14",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-14",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-16",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-16",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Katty",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Sophia Vale",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-18",
+    "artist": "Eternal",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-18",
+    "artist": "Doris Lost",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-21",
+    "artist": "Slaapmutsje",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-21",
+    "artist": "ZizZa",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-22",
+    "artist": "Domindo Nuni",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-22",
+    "artist": "Dreamflow",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-22",
+    "artist": "Sleepy Taes",
+    "who": "Nuno",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-22",
+    "artist": "Poluz",
+    "who": "Martijn",
+    "distribution": "Amuse"
+  },
+  {
+    "date": "2026-12-23",
+    "artist": "Motionless",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-23",
+    "artist": "Loomy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Cosmic Calm",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Deepsleep",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Luana Sol",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Eleanor Moon",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-25",
+    "artist": "Luna Nights",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-25",
+    "artist": "Vallie Ginns",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-28",
+    "artist": "Rekkel Paals",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-28",
+    "artist": "Wishes",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-29",
+    "artist": "Lila Serene",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-29",
+    "artist": "Ava Willow",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-29",
+    "artist": "Sleepy Delrow",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-29",
+    "artist": "Muted Mind",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-30",
+    "artist": "Soft Dawn",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-30",
+    "artist": "Swooshy",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Ludo Legato",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Evelyn Winter",
+    "who": "Martijn",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Nunery Dream",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Celestine Viora",
+    "who": "Nuno",
+    "distribution": "Distrokid"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Krople",
+    "who": "Martijn",
+    "distribution": "Distrokid"
   }
 ]

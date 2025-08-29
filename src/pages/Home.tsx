@@ -1,10 +1,13 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import ReleasesTable from '../components/ReleasesTable'
-import { generateSchedule } from '../utils/schedule'
+import { useEffect, useState } from 'react'
+import { getReleaseSchedule } from '../utils/releaseState'
+import type { ReleaseRow } from '../utils/schedule'
 
 export default function Home() {
-  const rows = generateSchedule(new Date('2025-08-25'), new Date('2026-12-31'))
+  const [rows, setRows] = useState<ReleaseRow[]>([]);
+  useEffect(() => { getReleaseSchedule().then(setRows) }, []), new Date('2026-12-31'))
   return (
     <>
       <Navbar />

@@ -1,7 +1,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Navbar from "../components/Navbar";
-import { generateSchedule, ReleaseRow } from "../utils/schedule";
+import type { ReleaseRow } from "../utils/schedule";
+import { getReleaseSchedule } from "../utils/releaseState";
 import { getUser } from "../utils/auth";
 
 type TaskState = { splits?: boolean; buma?: boolean; done?: boolean };
@@ -24,7 +25,8 @@ export default function EPChecklist() {
   });
 
   // base rows for whole period
-  const rows = useMemo(() => generateSchedule(new Date("2025-08-25"), new Date("2026-12-31")), []);
+  const [rows, setRows] = useState<ReleaseRow[]>([]);
+  useEffect(() => { getReleaseSchedule().then(setRows) }, []); => generateSchedule(new Date("2025-08-25"), new Date("2026-12-31")), []);
 
   // filter to current user and next 45 days window
   const windowEnd = useMemo(() => {
