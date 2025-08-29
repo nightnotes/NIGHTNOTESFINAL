@@ -14,6 +14,12 @@
 
 /* ===== Animated night sky (static position, twinkle only) ===== */
 #stars-layer { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+
+/* Ensure starry background never covers app content */
+#sky-bg { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+#sky-bg .stars { position: absolute; inset: 0; }
+#root { position: relative; z-index: 2; }
+
 .stars { position:absolute; inset:0; background-repeat:repeat; background-size: 320px 320px; }
 .s1 { opacity:.18; animation: twinkle 6s ease-in-out infinite; background-image:
   radial-gradient(1px 1px at 12% 20%, #fff 70%, transparent 71%),
