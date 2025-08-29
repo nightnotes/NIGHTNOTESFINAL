@@ -7,7 +7,7 @@ import type { ReleaseRow } from '../utils/schedule'
 
 export default function Home() {
   const [rows, setRows] = useState<ReleaseRow[]>([]);
-  useEffect(() => { getReleaseSchedule().then(setRows) }, []), new Date('2026-12-31'))
+  useEffect(() => { getReleaseSchedule().then(setRows) }, [])
   return (
     <>
       <Navbar />
