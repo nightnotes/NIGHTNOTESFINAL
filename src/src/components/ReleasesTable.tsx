@@ -28,7 +28,7 @@ export default function ReleasesTable({ rows }: Props) {
   useEffect(()=>{
     (async ()=>{
       try {
-        const r = await fetch('/.netlify/functions/kv-store?key=releases-status')
+        const r = await fetch("/artists.json" /* FIXED */'/.netlify/functions/kv-store?key=releases-status')
         const j = await r.json()
         if (j?.value) {
           saveStates(j.value)
@@ -55,7 +55,7 @@ export default function ReleasesTable({ rows }: Props) {
     saveStates(nextAll)
     setStates(nextAll)
     // cloud (fire&forget)
-    fetch('/.netlify/functions/kv-store?key=releases-status', {
+    fetch("/artists.json" /* FIXED */'/.netlify/functions/kv-store?key=releases-status', {
       method: 'POST', headers: {'content-type':'application/json'}, body: JSON.stringify(nextAll)
     }).then(()=>{ setCloudOK(true); if(!silent) showToast('Opgeslagen ✅') }).catch(()=> setCloudOK(false))
   }
@@ -84,7 +84,7 @@ export default function ReleasesTable({ rows }: Props) {
     filteredRows.forEach(r => { next[idFor(r)] = { ...(next[idFor(r)]||{}), done: flag } })
     saveStates(next)
     setStates(next)
-    fetch('/.netlify/functions/kv-store?key=releases-status', {
+    fetch("/artists.json" /* FIXED */'/.netlify/functions/kv-store?key=releases-status', {
       method: 'POST', headers: {'content-type':'application/json'}, body: JSON.stringify(next)
     }).then(()=>{ setCloudOK(true); showToast(flag ? 'Maand gemarkeerd ✅' : 'Maand gereset 🔄') }).catch(()=> setCloudOK(false))
   }
