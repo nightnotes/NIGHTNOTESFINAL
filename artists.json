@@ -1,127 +1,547 @@
 [
   {
+    "date": "2025-08-31",
+    "artist": "Domindo Nuni"
+  },
+  {
+    "date": "2025-09-01",
+    "artist": "Motionless"
+  },
+  {
+    "date": "2025-09-02",
+    "artist": "Loomy"
+  },
+  {
+    "date": "2025-09-02",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-09-02",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-09-02",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-09-03",
+    "artist": "Eleanor Moon"
+  },
+  {
+    "date": "2025-09-04",
+    "artist": "Luna Nights"
+  },
+  {
+    "date": "2025-09-04",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-09-04",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-09-04",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-09-05",
+    "artist": "Ava Willow"
+  },
+  {
+    "date": "2025-09-06",
+    "artist": "Sleepy Delrow"
+  },
+  {
+    "date": "2025-09-07",
+    "artist": "Lila Serene"
+  },
+  {
+    "date": "2025-09-08",
+    "artist": "Muted Mind"
+  },
+  {
+    "date": "2025-09-09",
+    "artist": "Swooshy"
+  },
+  {
+    "date": "2025-09-09",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-09-09",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-09-09",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-09-10",
+    "artist": "Soft Dawn"
+  },
+  {
+    "date": "2025-09-11",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-09-11",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-09-11",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-09-11",
+    "artist": "Nunery Dream"
+  },
+  {
+    "date": "2025-09-12",
+    "artist": "Celestine Viora"
+  },
+  {
+    "date": "2025-09-13",
+    "artist": "Ludo Legato"
+  },
+  {
+    "date": "2025-09-14",
+    "artist": "Evelyn Winter"
+  },
+  {
+    "date": "2025-09-15",
+    "artist": "Motionless"
+  },
+  {
+    "date": "2025-09-16",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-09-16",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-09-16",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-09-16",
+    "artist": "Loomy"
+  },
+  {
+    "date": "2025-09-17",
+    "artist": "Krople"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-09-18",
+    "artist": "Katty"
+  },
+  {
+    "date": "2025-09-19",
+    "artist": "Sophia Vale"
+  },
+  {
+    "date": "2025-09-20",
+    "artist": "Domindo Nuni"
+  },
+  {
+    "date": "2025-09-21",
+    "artist": "Eleanor Moon"
+  },
+  {
+    "date": "2025-09-22",
+    "artist": "Muted Mind"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-09-23",
+    "artist": "Swooshy"
+  },
+  {
+    "date": "2025-09-24",
+    "artist": "Luna Nights"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-09-25",
+    "artist": "Ava Willow"
+  },
+  {
+    "date": "2025-09-26",
+    "artist": "Sleepy Delrow"
+  },
+  {
+    "date": "2025-09-27",
+    "artist": "Lila Serene"
+  },
+  {
+    "date": "2025-09-28",
+    "artist": "Soft Dawn"
+  },
+  {
     "date": "2025-09-29",
     "artist": "Eternal"
+  },
+  {
+    "date": "2025-09-29",
+    "artist": "Motionless"
   },
   {
     "date": "2025-09-30",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2025-09-30",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-09-30",
+    "artist": "Loomy"
+  },
+  {
     "date": "2025-10-01",
     "artist": "Doris Lost"
+  },
+  {
+    "date": "2025-10-01",
+    "artist": "Nunery Dream"
   },
   {
     "date": "2025-10-02",
     "artist": "Vallie Ginns"
   },
   {
+    "date": "2025-10-02",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-10-02",
+    "artist": "Celestine Viora"
+  },
+  {
     "date": "2025-10-03",
     "artist": "Slaapmutsje"
   },
   {
+    "date": "2025-10-03",
+    "artist": "Ludo Legato"
+  },
+  {
+    "date": "2025-10-04",
+    "artist": "Evelyn Winter"
+  },
+  {
     "date": "2025-10-05",
+    "artist": "Krople"
+  },
+  {
+    "date": "2025-10-06",
     "artist": "ZizZa"
   },
   {
     "date": "2025-10-06",
-    "artist": "Sleepy Taes"
+    "artist": "Muted Mind"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Swooshy"
+  },
+  {
+    "date": "2025-10-07",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2025-10-07",
     "artist": "Deepsleep"
   },
   {
+    "date": "2025-10-07",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-10-08",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-10-08",
+    "artist": "Katty"
+  },
+  {
+    "date": "2025-10-09",
     "artist": "Poluz"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2025-10-09",
     "artist": "Rekkel Paals"
   },
   {
+    "date": "2025-10-09",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-10-09",
+    "artist": "Sophia Vale"
+  },
+  {
     "date": "2025-10-10",
     "artist": "Dreamflow"
   },
   {
+    "date": "2025-10-10",
+    "artist": "Domindo Nuni"
+  },
+  {
+    "date": "2025-10-11",
+    "artist": "Eleanor Moon"
+  },
+  {
     "date": "2025-10-12",
+    "artist": "Luna Nights"
+  },
+  {
+    "date": "2025-10-13",
     "artist": "Eternal"
   },
   {
     "date": "2025-10-13",
-    "artist": "Doris Lost"
+    "artist": "Motionless"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-10-14",
+    "artist": "Deepsleep"
   },
   {
     "date": "2025-10-14",
     "artist": "Luana Sol"
   },
   {
+    "date": "2025-10-14",
+    "artist": "Loomy"
+  },
+  {
     "date": "2025-10-15",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2025-10-15",
+    "artist": "Ava Willow"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-10-16",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2025-10-16",
     "artist": "Wishes"
   },
   {
+    "date": "2025-10-16",
+    "artist": "Sleepy Delrow"
+  },
+  {
     "date": "2025-10-17",
-    "artist": "ZizZa"
+    "artist": "Slaapmutsje"
+  },
+  {
+    "date": "2025-10-17",
+    "artist": "Lila Serene"
+  },
+  {
+    "date": "2025-10-18",
+    "artist": "Soft Dawn"
   },
   {
     "date": "2025-10-19",
-    "artist": "Sleepy Taes"
+    "artist": "Nunery Dream"
   },
   {
     "date": "2025-10-20",
-    "artist": "Poluz"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2025-10-20",
+    "artist": "Muted Mind"
   },
   {
     "date": "2025-10-21",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2025-10-21",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-10-21",
+    "artist": "Swooshy"
+  },
+  {
     "date": "2025-10-22",
-    "artist": "Dreamflow"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-10-22",
+    "artist": "Celestine Viora"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Poluz"
   },
   {
     "date": "2025-10-23",
     "artist": "Vallie Ginns"
   },
   {
+    "date": "2025-10-23",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-10-23",
+    "artist": "Ludo Legato"
+  },
+  {
     "date": "2025-10-24",
-    "artist": "Eternal"
+    "artist": "Dreamflow"
+  },
+  {
+    "date": "2025-10-24",
+    "artist": "Evelyn Winter"
+  },
+  {
+    "date": "2025-10-25",
+    "artist": "Krople"
   },
   {
     "date": "2025-10-26",
-    "artist": "Doris Lost"
+    "artist": "Katty"
   },
   {
     "date": "2025-10-27",
-    "artist": "Slaapmutsje"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2025-10-27",
+    "artist": "Motionless"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2025-10-28",
     "artist": "Deepsleep"
   },
   {
+    "date": "2025-10-28",
+    "artist": "Luana Sol"
+  },
+  {
+    "date": "2025-10-28",
+    "artist": "Loomy"
+  },
+  {
     "date": "2025-10-29",
-    "artist": "ZizZa"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2025-10-29",
+    "artist": "Sophia Vale"
+  },
+  {
+    "date": "2025-10-30",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2025-10-30",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2025-10-31",
-    "artist": "Sleepy Taes"
+    "date": "2025-10-30",
+    "artist": "Wishes"
   },
   {
-    "date": "2025-11-02",
-    "artist": "Poluz"
+    "date": "2025-10-30",
+    "artist": "Domindo Nuni"
+  },
+  {
+    "date": "2025-10-31",
+    "artist": "Slaapmutsje"
+  },
+  {
+    "date": "2025-10-31",
+    "artist": "Eleanor Moon"
   },
   {
     "date": "2025-11-03",
-    "artist": "Dreamflow"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-11-04",
+    "artist": "Deepsleep"
   },
   {
     "date": "2025-11-04",
@@ -129,7 +549,15 @@
   },
   {
     "date": "2025-11-05",
-    "artist": "Eternal"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-11-06",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2025-11-06",
@@ -137,10 +565,6 @@
   },
   {
     "date": "2025-11-07",
-    "artist": "Doris Lost"
-  },
-  {
-    "date": "2025-11-09",
     "artist": "Slaapmutsje"
   },
   {
@@ -152,19 +576,35 @@
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2025-11-11",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-11-11",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-11-12",
     "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-11-13",
+    "artist": "Poluz"
   },
   {
     "date": "2025-11-13",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2025-11-14",
-    "artist": "Poluz"
+    "date": "2025-11-13",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2025-11-16",
+    "date": "2025-11-13",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-11-14",
     "artist": "Dreamflow"
   },
   {
@@ -173,7 +613,15 @@
   },
   {
     "date": "2025-11-18",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-11-18",
     "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-11-18",
+    "artist": "Luana Sol"
   },
   {
     "date": "2025-11-19",
@@ -181,19 +629,31 @@
   },
   {
     "date": "2025-11-20",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-11-20",
     "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2025-11-20",
+    "artist": "Wishes"
   },
   {
     "date": "2025-11-21",
     "artist": "Slaapmutsje"
   },
   {
-    "date": "2025-11-23",
+    "date": "2025-11-24",
     "artist": "ZizZa"
   },
   {
-    "date": "2025-11-24",
-    "artist": "Sleepy Taes"
+    "date": "2025-11-25",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-11-25",
+    "artist": "Deepsleep"
   },
   {
     "date": "2025-11-25",
@@ -201,7 +661,19 @@
   },
   {
     "date": "2025-11-26",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-11-27",
     "artist": "Poluz"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-11-27",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2025-11-27",
@@ -212,60 +684,92 @@
     "artist": "Dreamflow"
   },
   {
-    "date": "2025-11-30",
-    "artist": "Eternal"
-  },
-  {
     "date": "2025-12-01",
-    "artist": "Doris Lost"
+    "artist": "Eternal"
   },
   {
     "date": "2025-12-02",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2025-12-02",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-12-02",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-12-03",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
   },
   {
     "date": "2025-12-04",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2025-12-05",
-    "artist": "ZizZa"
+    "date": "2025-12-04",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2025-12-07",
-    "artist": "Sleepy Taes"
+    "date": "2025-12-04",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-12-05",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2025-12-08",
-    "artist": "Poluz"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2025-12-09",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2025-12-09",
     "artist": "Deepsleep"
   },
   {
+    "date": "2025-12-09",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-12-10",
-    "artist": "Dreamflow"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2025-12-11",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2025-12-11",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2025-12-12",
-    "artist": "Eternal"
+    "date": "2025-12-11",
+    "artist": "Wishes"
   },
   {
-    "date": "2025-12-14",
-    "artist": "Doris Lost"
+    "date": "2025-12-12",
+    "artist": "Dreamflow"
   },
   {
     "date": "2025-12-15",
-    "artist": "Slaapmutsje"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2025-12-16",
+    "artist": "Deepsleep"
   },
   {
     "date": "2025-12-16",
@@ -273,7 +777,15 @@
   },
   {
     "date": "2025-12-17",
-    "artist": "ZizZa"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2025-12-18",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2025-12-18",
@@ -281,63 +793,95 @@
   },
   {
     "date": "2025-12-19",
-    "artist": "Sleepy Taes"
-  },
-  {
-    "date": "2025-12-21",
-    "artist": "Poluz"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2025-12-22",
-    "artist": "Dreamflow"
+    "artist": "ZizZa"
   },
   {
     "date": "2025-12-23",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2025-12-23",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2025-12-23",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-12-24",
-    "artist": "Eternal"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2025-12-25",
+    "artist": "Poluz"
   },
   {
     "date": "2025-12-25",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2025-12-26",
-    "artist": "Doris Lost"
+    "date": "2025-12-25",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2025-12-28",
-    "artist": "Slaapmutsje"
+    "date": "2025-12-25",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2025-12-26",
+    "artist": "Dreamflow"
   },
   {
     "date": "2025-12-29",
-    "artist": "ZizZa"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2025-12-30",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2025-12-30",
     "artist": "Deepsleep"
   },
   {
+    "date": "2025-12-30",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2025-12-31",
-    "artist": "Sleepy Taes"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-01-01",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-01-01",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-01-02",
-    "artist": "Poluz"
+    "date": "2026-01-01",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-01-04",
-    "artist": "Dreamflow"
+    "date": "2026-01-02",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-01-05",
-    "artist": "Eternal"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-01-06",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-01-06",
@@ -345,7 +889,19 @@
   },
   {
     "date": "2026-01-07",
-    "artist": "Doris Lost"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-01-08",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-01-08",
@@ -353,63 +909,95 @@
   },
   {
     "date": "2026-01-09",
-    "artist": "Slaapmutsje"
-  },
-  {
-    "date": "2026-01-11",
-    "artist": "ZizZa"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-01-12",
-    "artist": "Sleepy Taes"
+    "artist": "Eternal"
   },
   {
     "date": "2026-01-13",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-01-13",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-01-13",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-01-14",
-    "artist": "Poluz"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-01-15",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-01-16",
-    "artist": "Dreamflow"
+    "date": "2026-01-15",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-01-18",
-    "artist": "Eternal"
+    "date": "2026-01-15",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-01-16",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-01-19",
-    "artist": "Doris Lost"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-01-20",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-01-20",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-01-20",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-01-21",
-    "artist": "Slaapmutsje"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-01-22",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-01-22",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-01-23",
-    "artist": "ZizZa"
+    "date": "2026-01-22",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-01-25",
-    "artist": "Sleepy Taes"
+    "date": "2026-01-23",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-01-26",
-    "artist": "Poluz"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-01-27",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-01-27",
@@ -417,7 +1005,15 @@
   },
   {
     "date": "2026-01-28",
-    "artist": "Dreamflow"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-01-29",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-01-29",
@@ -425,63 +1021,95 @@
   },
   {
     "date": "2026-01-30",
-    "artist": "Eternal"
-  },
-  {
-    "date": "2026-02-01",
-    "artist": "Doris Lost"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-02-02",
-    "artist": "Slaapmutsje"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-02-03",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-02-03",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-02-03",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-02-04",
-    "artist": "ZizZa"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-02-05",
+    "artist": "Poluz"
   },
   {
     "date": "2026-02-05",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-02-06",
-    "artist": "Sleepy Taes"
+    "date": "2026-02-05",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-02-08",
-    "artist": "Poluz"
+    "date": "2026-02-05",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-02-06",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-02-09",
-    "artist": "Dreamflow"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-02-10",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-02-10",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-02-10",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-02-11",
-    "artist": "Eternal"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-02-12",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-02-12",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-02-13",
-    "artist": "Doris Lost"
+    "date": "2026-02-12",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-02-15",
+    "date": "2026-02-13",
     "artist": "Slaapmutsje"
   },
   {
     "date": "2026-02-16",
     "artist": "ZizZa"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-02-17",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-02-17",
@@ -493,14 +1121,22 @@
   },
   {
     "date": "2026-02-19",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-02-19",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-02-19",
     "artist": "Wishes"
   },
   {
     "date": "2026-02-20",
-    "artist": "Poluz"
-  },
-  {
-    "date": "2026-02-22",
     "artist": "Dreamflow"
   },
   {
@@ -512,6 +1148,14 @@
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-02-24",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-02-24",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-02-25",
     "artist": "Doris Lost"
   },
@@ -520,40 +1164,68 @@
     "artist": "Vallie Ginns"
   },
   {
+    "date": "2026-02-26",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-02-26",
+    "artist": "Wishes"
+  },
+  {
     "date": "2026-02-27",
     "artist": "Slaapmutsje"
   },
   {
-    "date": "2026-03-01",
+    "date": "2026-03-02",
     "artist": "ZizZa"
   },
   {
-    "date": "2026-03-02",
-    "artist": "Sleepy Taes"
+    "date": "2026-03-03",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-03-03",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-03-03",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-03-04",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-03-05",
     "artist": "Poluz"
+  },
+  {
+    "date": "2026-03-05",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-03-05",
     "artist": "Rekkel Paals"
   },
   {
+    "date": "2026-03-05",
+    "artist": "Wishes"
+  },
+  {
     "date": "2026-03-06",
     "artist": "Dreamflow"
   },
   {
-    "date": "2026-03-08",
+    "date": "2026-03-09",
     "artist": "Eternal"
   },
   {
-    "date": "2026-03-09",
-    "artist": "Doris Lost"
+    "date": "2026-03-10",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-03-10",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-03-10",
@@ -561,7 +1233,15 @@
   },
   {
     "date": "2026-03-11",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-03-12",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-03-12",
@@ -569,63 +1249,95 @@
   },
   {
     "date": "2026-03-13",
-    "artist": "ZizZa"
-  },
-  {
-    "date": "2026-03-15",
-    "artist": "Sleepy Taes"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-03-16",
-    "artist": "Poluz"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-03-17",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-03-17",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-03-17",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-03-18",
-    "artist": "Dreamflow"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-03-19",
+    "artist": "Poluz"
   },
   {
     "date": "2026-03-19",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-03-20",
-    "artist": "Eternal"
+    "date": "2026-03-19",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-03-22",
-    "artist": "Doris Lost"
+    "date": "2026-03-19",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-03-20",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-03-23",
-    "artist": "Slaapmutsje"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-03-24",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-03-24",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-03-24",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-03-25",
-    "artist": "ZizZa"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-03-26",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-03-26",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-03-27",
-    "artist": "Sleepy Taes"
+    "date": "2026-03-26",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-03-29",
-    "artist": "Poluz"
+    "date": "2026-03-27",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-03-30",
-    "artist": "Dreamflow"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-03-31",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-03-31",
@@ -633,7 +1345,19 @@
   },
   {
     "date": "2026-04-01",
-    "artist": "Eternal"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-04-02",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-04-02",
@@ -641,63 +1365,95 @@
   },
   {
     "date": "2026-04-03",
-    "artist": "Doris Lost"
-  },
-  {
-    "date": "2026-04-05",
-    "artist": "Slaapmutsje"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-04-06",
-    "artist": "ZizZa"
+    "artist": "Eternal"
   },
   {
     "date": "2026-04-07",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-04-07",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-04-07",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-04-08",
-    "artist": "Sleepy Taes"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-04-09",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-04-10",
-    "artist": "Poluz"
+    "date": "2026-04-09",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-04-12",
-    "artist": "Dreamflow"
+    "date": "2026-04-09",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-04-10",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-04-13",
-    "artist": "Eternal"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-04-14",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-04-14",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-04-14",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-04-15",
-    "artist": "Doris Lost"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-04-16",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-04-16",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-04-17",
-    "artist": "Slaapmutsje"
+    "date": "2026-04-16",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-04-19",
-    "artist": "ZizZa"
+    "date": "2026-04-17",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-04-20",
-    "artist": "Sleepy Taes"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-04-21",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-04-21",
@@ -705,7 +1461,15 @@
   },
   {
     "date": "2026-04-22",
-    "artist": "Poluz"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-04-23",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-04-23",
@@ -713,63 +1477,95 @@
   },
   {
     "date": "2026-04-24",
-    "artist": "Dreamflow"
-  },
-  {
-    "date": "2026-04-26",
-    "artist": "Eternal"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-04-27",
-    "artist": "Doris Lost"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-04-28",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-04-28",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-04-28",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-04-29",
-    "artist": "Slaapmutsje"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-04-30",
+    "artist": "Poluz"
   },
   {
     "date": "2026-04-30",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-05-01",
-    "artist": "ZizZa"
+    "date": "2026-04-30",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-05-03",
-    "artist": "Sleepy Taes"
+    "date": "2026-04-30",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-05-01",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-05-04",
-    "artist": "Poluz"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-05-05",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-05-05",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-05-05",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-05-06",
-    "artist": "Dreamflow"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-05-07",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-05-07",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-05-08",
-    "artist": "Eternal"
+    "date": "2026-05-07",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-05-10",
-    "artist": "Doris Lost"
+    "date": "2026-05-08",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-05-11",
-    "artist": "Slaapmutsje"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-05-12",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-05-12",
@@ -777,7 +1573,19 @@
   },
   {
     "date": "2026-05-13",
-    "artist": "ZizZa"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-05-14",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-05-14",
@@ -785,34 +1593,42 @@
   },
   {
     "date": "2026-05-15",
-    "artist": "Sleepy Taes"
-  },
-  {
-    "date": "2026-05-17",
-    "artist": "Poluz"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-05-18",
-    "artist": "Dreamflow"
+    "artist": "Eternal"
   },
   {
     "date": "2026-05-19",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-05-19",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-05-19",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-05-20",
-    "artist": "Eternal"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-05-21",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-05-22",
-    "artist": "Doris Lost"
+    "date": "2026-05-21",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-05-24",
+    "date": "2026-05-21",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-05-22",
     "artist": "Slaapmutsje"
   },
   {
@@ -821,7 +1637,15 @@
   },
   {
     "date": "2026-05-26",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-05-26",
     "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-05-26",
+    "artist": "Luana Sol"
   },
   {
     "date": "2026-05-27",
@@ -829,19 +1653,35 @@
   },
   {
     "date": "2026-05-28",
-    "artist": "Rekkel Paals"
-  },
-  {
-    "date": "2026-05-29",
     "artist": "Poluz"
   },
   {
-    "date": "2026-05-31",
+    "date": "2026-05-28",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-05-28",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-05-29",
     "artist": "Dreamflow"
   },
   {
     "date": "2026-06-01",
     "artist": "Eternal"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-06-02",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-06-02",
@@ -853,6 +1693,14 @@
   },
   {
     "date": "2026-06-04",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-06-04",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-06-04",
     "artist": "Wishes"
   },
   {
@@ -860,19 +1708,27 @@
     "artist": "Slaapmutsje"
   },
   {
-    "date": "2026-06-07",
-    "artist": "ZizZa"
-  },
-  {
     "date": "2026-06-08",
-    "artist": "Sleepy Taes"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-06-09",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-06-09",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-06-09",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-06-10",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-06-11",
     "artist": "Poluz"
   },
   {
@@ -880,40 +1736,64 @@
     "artist": "Vallie Ginns"
   },
   {
+    "date": "2026-06-11",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-06-11",
+    "artist": "Wishes"
+  },
+  {
     "date": "2026-06-12",
     "artist": "Dreamflow"
   },
   {
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "artist": "Eternal"
   },
   {
-    "date": "2026-06-15",
-    "artist": "Doris Lost"
+    "date": "2026-06-16",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-06-16",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-06-16",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-06-17",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-06-18",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-06-18",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-06-19",
-    "artist": "ZizZa"
+    "date": "2026-06-18",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-06-21",
-    "artist": "Sleepy Taes"
+    "date": "2026-06-19",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-06-22",
-    "artist": "Poluz"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-06-23",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-06-23",
@@ -921,7 +1801,19 @@
   },
   {
     "date": "2026-06-24",
-    "artist": "Dreamflow"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-06-25",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-06-25",
@@ -929,63 +1821,95 @@
   },
   {
     "date": "2026-06-26",
-    "artist": "Eternal"
-  },
-  {
-    "date": "2026-06-28",
-    "artist": "Doris Lost"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-06-29",
-    "artist": "Slaapmutsje"
+    "artist": "Eternal"
   },
   {
     "date": "2026-06-30",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-06-30",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-06-30",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-07-01",
-    "artist": "ZizZa"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-07-02",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-07-03",
-    "artist": "Sleepy Taes"
+    "date": "2026-07-02",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-07-05",
-    "artist": "Poluz"
+    "date": "2026-07-02",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-07-03",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-07-06",
-    "artist": "Dreamflow"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-07-07",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-07-07",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-07-07",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-07-08",
-    "artist": "Eternal"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-07-09",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-07-09",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-07-10",
-    "artist": "Doris Lost"
+    "date": "2026-07-09",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-07-12",
-    "artist": "Slaapmutsje"
+    "date": "2026-07-10",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-07-13",
-    "artist": "ZizZa"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-07-14",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-07-14",
@@ -993,7 +1917,15 @@
   },
   {
     "date": "2026-07-15",
-    "artist": "Sleepy Taes"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-07-16",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-07-16",
@@ -1001,63 +1933,95 @@
   },
   {
     "date": "2026-07-17",
-    "artist": "Poluz"
-  },
-  {
-    "date": "2026-07-19",
-    "artist": "Dreamflow"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-07-20",
-    "artist": "Eternal"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-07-21",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-07-21",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-07-21",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-07-22",
-    "artist": "Doris Lost"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-07-23",
+    "artist": "Poluz"
   },
   {
     "date": "2026-07-23",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-07-24",
-    "artist": "Slaapmutsje"
+    "date": "2026-07-23",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-07-26",
-    "artist": "ZizZa"
+    "date": "2026-07-23",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-07-24",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-07-27",
-    "artist": "Sleepy Taes"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-07-28",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-07-28",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-07-28",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-07-29",
-    "artist": "Poluz"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-07-30",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-07-30",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-07-31",
-    "artist": "Dreamflow"
+    "date": "2026-07-30",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-08-02",
-    "artist": "Eternal"
+    "date": "2026-07-31",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-08-03",
-    "artist": "Doris Lost"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-08-04",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-08-04",
@@ -1065,7 +2029,19 @@
   },
   {
     "date": "2026-08-05",
-    "artist": "Slaapmutsje"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-08-06",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-08-06",
@@ -1073,63 +2049,95 @@
   },
   {
     "date": "2026-08-07",
-    "artist": "ZizZa"
-  },
-  {
-    "date": "2026-08-09",
-    "artist": "Sleepy Taes"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-08-10",
-    "artist": "Poluz"
+    "artist": "Eternal"
   },
   {
     "date": "2026-08-11",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-08-11",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-08-11",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-08-12",
-    "artist": "Dreamflow"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-08-13",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-08-14",
-    "artist": "Eternal"
+    "date": "2026-08-13",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-08-16",
-    "artist": "Doris Lost"
+    "date": "2026-08-13",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-08-14",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-08-17",
-    "artist": "Slaapmutsje"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-08-18",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-08-18",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-08-19",
-    "artist": "ZizZa"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-08-20",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-08-21",
-    "artist": "Sleepy Taes"
+    "date": "2026-08-20",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-08-23",
-    "artist": "Poluz"
+    "date": "2026-08-21",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-08-24",
-    "artist": "Dreamflow"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-08-25",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-08-25",
@@ -1137,7 +2145,15 @@
   },
   {
     "date": "2026-08-26",
-    "artist": "Eternal"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-08-27",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-08-27",
@@ -1145,10 +2161,6 @@
   },
   {
     "date": "2026-08-28",
-    "artist": "Doris Lost"
-  },
-  {
-    "date": "2026-08-30",
     "artist": "Slaapmutsje"
   },
   {
@@ -1160,19 +2172,35 @@
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-09-01",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-09-02",
     "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Poluz"
   },
   {
     "date": "2026-09-03",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-09-04",
-    "artist": "Poluz"
+    "date": "2026-09-03",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-03",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-09-04",
     "artist": "Dreamflow"
   },
   {
@@ -1181,7 +2209,15 @@
   },
   {
     "date": "2026-09-08",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-09-08",
     "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-09-08",
+    "artist": "Luana Sol"
   },
   {
     "date": "2026-09-09",
@@ -1189,19 +2225,31 @@
   },
   {
     "date": "2026-09-10",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-09-10",
     "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Wishes"
   },
   {
     "date": "2026-09-11",
     "artist": "Slaapmutsje"
   },
   {
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "artist": "ZizZa"
   },
   {
-    "date": "2026-09-14",
-    "artist": "Sleepy Taes"
+    "date": "2026-09-15",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-09-15",
@@ -1209,7 +2257,19 @@
   },
   {
     "date": "2026-09-16",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-09-17",
     "artist": "Poluz"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-09-17",
@@ -1220,60 +2280,92 @@
     "artist": "Dreamflow"
   },
   {
-    "date": "2026-09-20",
-    "artist": "Eternal"
-  },
-  {
     "date": "2026-09-21",
-    "artist": "Doris Lost"
+    "artist": "Eternal"
   },
   {
     "date": "2026-09-22",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-09-22",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-09-22",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-09-23",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-09-24",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-09-25",
-    "artist": "ZizZa"
+    "date": "2026-09-24",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-09-27",
-    "artist": "Sleepy Taes"
+    "date": "2026-09-24",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-09-25",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-09-28",
-    "artist": "Poluz"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-09-29",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-09-29",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-09-30",
-    "artist": "Dreamflow"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-10-01",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-10-02",
-    "artist": "Eternal"
+    "date": "2026-10-01",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-10-04",
-    "artist": "Doris Lost"
+    "date": "2026-10-02",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-10-05",
-    "artist": "Slaapmutsje"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-10-06",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-10-06",
@@ -1281,7 +2373,15 @@
   },
   {
     "date": "2026-10-07",
-    "artist": "ZizZa"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-10-08",
@@ -1289,63 +2389,95 @@
   },
   {
     "date": "2026-10-09",
-    "artist": "Sleepy Taes"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Poluz"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-10-12",
-    "artist": "Dreamflow"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-10-13",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-10-13",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-10-14",
-    "artist": "Eternal"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Poluz"
   },
   {
     "date": "2026-10-15",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-10-16",
-    "artist": "Doris Lost"
+    "date": "2026-10-15",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-10-18",
-    "artist": "Slaapmutsje"
+    "date": "2026-10-15",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-10-16",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-10-19",
-    "artist": "ZizZa"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-10-20",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-10-20",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-10-20",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-10-21",
-    "artist": "Sleepy Taes"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-10-22",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-10-23",
-    "artist": "Poluz"
+    "date": "2026-10-22",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-10-25",
-    "artist": "Dreamflow"
+    "date": "2026-10-23",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-10-26",
-    "artist": "Eternal"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-10-27",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-10-27",
@@ -1353,7 +2485,19 @@
   },
   {
     "date": "2026-10-28",
-    "artist": "Doris Lost"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-10-29",
@@ -1361,63 +2505,95 @@
   },
   {
     "date": "2026-10-30",
-    "artist": "Slaapmutsje"
-  },
-  {
-    "date": "2026-11-01",
-    "artist": "ZizZa"
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-11-02",
-    "artist": "Sleepy Taes"
+    "artist": "Eternal"
   },
   {
     "date": "2026-11-03",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-11-03",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-11-03",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-11-04",
-    "artist": "Poluz"
+    "artist": "Doris Lost"
   },
   {
     "date": "2026-11-05",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-11-06",
-    "artist": "Dreamflow"
+    "date": "2026-11-05",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-11-08",
-    "artist": "Eternal"
+    "date": "2026-11-05",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-11-06",
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-11-09",
-    "artist": "Doris Lost"
+    "artist": "ZizZa"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-11-10",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-11-10",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-11-11",
-    "artist": "Slaapmutsje"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-11-12",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-11-12",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-11-13",
-    "artist": "ZizZa"
+    "date": "2026-11-12",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-11-15",
-    "artist": "Sleepy Taes"
+    "date": "2026-11-13",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-11-16",
-    "artist": "Poluz"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-11-17",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-11-17",
@@ -1425,7 +2601,15 @@
   },
   {
     "date": "2026-11-18",
-    "artist": "Dreamflow"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-11-19",
@@ -1433,63 +2617,95 @@
   },
   {
     "date": "2026-11-20",
-    "artist": "Eternal"
-  },
-  {
-    "date": "2026-11-22",
-    "artist": "Doris Lost"
+    "artist": "Slaapmutsje"
   },
   {
     "date": "2026-11-23",
-    "artist": "Slaapmutsje"
+    "artist": "ZizZa"
   },
   {
     "date": "2026-11-24",
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-11-24",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-11-25",
-    "artist": "ZizZa"
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Poluz"
   },
   {
     "date": "2026-11-26",
     "artist": "Vallie Ginns"
   },
   {
-    "date": "2026-11-27",
-    "artist": "Sleepy Taes"
+    "date": "2026-11-26",
+    "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-11-29",
-    "artist": "Poluz"
+    "date": "2026-11-26",
+    "artist": "Wishes"
+  },
+  {
+    "date": "2026-11-27",
+    "artist": "Dreamflow"
   },
   {
     "date": "2026-11-30",
-    "artist": "Dreamflow"
+    "artist": "Eternal"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-12-01",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-12-01",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-12-02",
-    "artist": "Eternal"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-12-03",
     "artist": "Rekkel Paals"
   },
   {
-    "date": "2026-12-04",
-    "artist": "Doris Lost"
+    "date": "2026-12-03",
+    "artist": "Wishes"
   },
   {
-    "date": "2026-12-06",
+    "date": "2026-12-04",
     "artist": "Slaapmutsje"
   },
   {
     "date": "2026-12-07",
     "artist": "ZizZa"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-12-08",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-12-08",
@@ -1501,14 +2717,22 @@
   },
   {
     "date": "2026-12-10",
+    "artist": "Poluz"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-12-10",
     "artist": "Wishes"
   },
   {
     "date": "2026-12-11",
-    "artist": "Poluz"
-  },
-  {
-    "date": "2026-12-13",
     "artist": "Dreamflow"
   },
   {
@@ -1520,6 +2744,14 @@
     "artist": "Cosmic Calm"
   },
   {
+    "date": "2026-12-15",
+    "artist": "Deepsleep"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-12-16",
     "artist": "Doris Lost"
   },
@@ -1528,40 +2760,68 @@
     "artist": "Vallie Ginns"
   },
   {
+    "date": "2026-12-17",
+    "artist": "Rekkel Paals"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Wishes"
+  },
+  {
     "date": "2026-12-18",
     "artist": "Slaapmutsje"
   },
   {
-    "date": "2026-12-20",
+    "date": "2026-12-21",
     "artist": "ZizZa"
   },
   {
-    "date": "2026-12-21",
-    "artist": "Sleepy Taes"
+    "date": "2026-12-22",
+    "artist": "Cosmic Calm"
   },
   {
     "date": "2026-12-22",
     "artist": "Deepsleep"
   },
   {
+    "date": "2026-12-22",
+    "artist": "Luana Sol"
+  },
+  {
     "date": "2026-12-23",
+    "artist": "Sleepy Taes"
+  },
+  {
+    "date": "2026-12-24",
     "artist": "Poluz"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Vallie Ginns"
   },
   {
     "date": "2026-12-24",
     "artist": "Rekkel Paals"
   },
   {
+    "date": "2026-12-24",
+    "artist": "Wishes"
+  },
+  {
     "date": "2026-12-25",
     "artist": "Dreamflow"
   },
   {
-    "date": "2026-12-27",
+    "date": "2026-12-28",
     "artist": "Eternal"
   },
   {
-    "date": "2026-12-28",
-    "artist": "Doris Lost"
+    "date": "2026-12-29",
+    "artist": "Cosmic Calm"
+  },
+  {
+    "date": "2026-12-29",
+    "artist": "Deepsleep"
   },
   {
     "date": "2026-12-29",
@@ -1569,7 +2829,15 @@
   },
   {
     "date": "2026-12-30",
-    "artist": "Slaapmutsje"
+    "artist": "Doris Lost"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Vallie Ginns"
+  },
+  {
+    "date": "2026-12-31",
+    "artist": "Rekkel Paals"
   },
   {
     "date": "2026-12-31",
