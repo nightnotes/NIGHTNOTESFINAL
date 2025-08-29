@@ -24,7 +24,7 @@ export default function EPChecklist() {
   });
 
   // base rows for whole period
-  const rows = useMemo(() => generateSchedule(new Date("2025-08-25"), new Date("2026-12-31")), []);
+  const rows = useMemo(() ;
 
   // filter to current user and next 45 days window
   const windowEnd = useMemo(() => {

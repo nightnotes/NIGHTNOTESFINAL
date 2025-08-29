@@ -26,7 +26,7 @@ export default function EPChecklist() {
 
   // base rows for whole period
   const [rows, setRows] = useState<ReleaseRow[]>([]);
-  useEffect(() => { getReleaseSchedule().then(setRows) }, []); => generateSchedule(new Date("2025-08-25"), new Date("2026-12-31")), []);
+  useEffect(() => { getReleaseSchedule().then(setRows) }, []); ;
 
   // filter to current user and next 45 days window
   const windowEnd = useMemo(() => {
