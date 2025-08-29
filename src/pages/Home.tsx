@@ -11,6 +11,11 @@ export default function Home() {
   return (
     <>
       <Navbar />
+      {/* DEBUG HUD */}
+      <div style={{position:'fixed',top:8,left:8,zIndex:9999,background:'rgba(0,0,0,.55)',padding:'6px 10px',borderRadius:12,fontSize:12}}>
+        <div>boot: home</div>
+        <div>rows: {rows?.length ?? 0}</div>
+      </div>
       <div className="section">
         <h2 className="text-2xl font-bold mb-4">Releases</h2>
         <ReleasesTable rows={rows} />

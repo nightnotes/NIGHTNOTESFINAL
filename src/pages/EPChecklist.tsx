@@ -34,8 +34,7 @@ export default function EPChecklist() {
   }, []);
   const myRows = useMemo(() => {
     const inWindow = rows.filter(r => {
-      const [dd,mm,yy] = r.date.split("-").map(Number);
-      const d = new Date(yy, mm-1, dd);
+      const d = new Date(r.date);
       return d <= windowEnd;
     });
     return inWindow.filter(r => r.who === user);
